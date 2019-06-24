@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView( R.layout.activity_main );
     }
 
-    public void workwithintent1(View view){
+    public void callno(View view){
 
 
         /*
